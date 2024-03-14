@@ -8,8 +8,6 @@ PokeCards es un emocionante juego móvil desarrollado en Flutter que recrea la e
   
 - **Combates Pokémon:** Utiliza tus cartas en emocionantes batallas Pokémon contra otros jugadores o contra la inteligencia artificial.
   
-- **Aprendizaje Interactivo:** A través del juego, los usuarios pueden aprender sobre los diferentes Pokémon, sus tipos, estadísticas y estrategias de combate.
-  
 - **Plataforma Flutter:** Desarrollado completamente en Flutter, garantizando una experiencia fluida y multiplataforma para usuarios de dispositivos móviles.
   
 - **Sin Fines Comerciales:** Este proyecto es completamente gratuito y de código abierto, creado con el propósito de educar y entretener a la comunidad sin ningún objetivo comercial.
